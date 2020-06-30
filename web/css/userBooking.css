@@ -1,0 +1,133 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09-Feb-2019, 12:44:45
+    Author     : DR SUDHIR BHOLE
+*/
+
+.UserDetails{
+    margin-top: 120px;
+    padding: 20px;
+    margin-left: 200px;
+    width: 350px;
+  
+    border-radius: 20px;
+    
+    
+}
+.UserDetails .Addblock  label{
+    width: 300px;
+    font-family: cursive;
+    font-size: large;
+    padding: 15px;
+     
+}
+.UserDetails input ,select{
+    width: 300px;
+    line-height: 20px;
+    border-bottom: 2px solid burlywood;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    background: transparent;
+    color: black;
+    font-family: cursive;
+}
+.UserDetails button{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    width: 300px;
+    background: gray;
+    font-family: cursive;
+    font-size: larger;
+}
+.UserDetails h1{
+    margin-top: 0px;
+    font-family: cursive;
+    
+}
+.UserSide{
+    margin-top: -675px;
+    margin-left: 650px;
+    width: 600px;
+    }
+    .UserSide img{
+        float: left;
+        padding: 10px;
+        border-radius: 20px;
+        
+    }
+    .Addblock{
+    padding: 10px;
+    margin-top: -400px;
+    margin-left: 650px;
+    width: 900px;
+    }
+    .Addblock input{
+    width: 400px;
+    line-height: 20px;
+    border-bottom: 2px solid burlywood;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    background: transparent;
+    color: black;
+    font-family: cursive;
+    }
+    .inpD{
+        margin-left: 400px;
+        padding: 20px;
+        
+    }
+    .inpD input{
+    width: 100px;
+    line-height: 20px;
+    border-bottom: 2px solid burlywood;
+    border-left: 0px;
+    border-rigth: 0px;
+    border-top: 0px;
+    
+    background: transparent;
+    color: black;
+    font-family: cursive;
+    
+    }
+    inpD label{
+    width: 100px;
+    font-family: cursive;
+    font-size: large;
+    padding: 25px;
+   
+    }
+    .ud {
+        width: 920px;
+        margin-left: 200px;
+        margin-top: 100px;
+        
+    }
+    .ud button{
+        margin-left: -300px;
+        width: 400px;
+        margin-top: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    background: gray;
+    font-family: cursive;
+    font-size: larger;
+    }
+    .ud1 {
+        margin-top: 100px;
+        margin-left: 450px;
+    }
+    .cbox label{
+        color: black;
+    font-size: large;
+    }
+    
+ 
