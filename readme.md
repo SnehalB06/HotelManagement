@@ -1,3 +1,3 @@
-<h1>Hotel Management Repository</h1>
+<h1>Hotel Management System</h1>
 
 
